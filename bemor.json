@@ -1,0 +1,1 @@
+"{\n    \"ism\": \"Alijon Valiyev\",\n    \"yosh\": 30,\n    \"oila\": true,\n    \"farzandlar\": [\n        \"Ahmad\",\n        \"Bonu\"\n    ],\n    \"allergiya\": null,\n    \"dorilar\": [\n        {\n            \"nomi\": \"Analgin\",\n            \"miqdori\": 0.5\n        },\n        {\n            \"nomi\": \"Panadol\",\n            \"miqdori\": 1.2\n        }\n    ]\n}"
